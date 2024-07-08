@@ -1630,3 +1630,4 @@ Quote on |Mon, 08 Jul 2024 15:39:08 GMT| :  Six essential qualities that are the
 Quote on |Mon, 08 Jul 2024 15:51:19 GMT| :  Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. - Lou Holtz
 Quote on |Mon, 08 Jul 2024 16:14:09 GMT| :  The superior man understands what is right; the inferior man understands what will sell. - Confucius
 Quote on |Mon, 08 Jul 2024 16:34:48 GMT| :  Life is what you make of it. Always has been, always will be. - Grandma Moses
+Quote on |Mon, 08 Jul 2024 16:46:44 GMT| :  First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we've realized it's a brochure. - Douglas Adams
